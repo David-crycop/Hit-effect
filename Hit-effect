@@ -95,4 +95,4 @@
     game.ReplicatedStorage.CustomHit,
     game.ReplicatedStorage.Godshand,
     game.ReplicatedStorage.Errorhit
-}
+}   game.ReplicatedStorage.b
